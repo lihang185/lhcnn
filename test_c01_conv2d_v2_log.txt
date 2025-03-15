@@ -1,0 +1,121 @@
+>>> 
+---------------
+Start System
+---------------
+Load Dataset Step
+---------------
+Create Model Step
+---------------
+Train Model Step: 0
+number of epochs: 5
+epoch 0, loss: 83.324183,cost 32.763189 sec
+epoch 1, loss: 73.703138,cost 32.707594 sec
+epoch 2, loss: 68.734037,cost 32.896056 sec
+epoch 3, loss: 64.210323,cost 32.544262 sec
+epoch 4, loss: 60.784716,cost 32.408769 sec
+---------------
+train Accuracy: 0.836300
+test Accuracy: 0.835500
+---------------
+Train Model Step: 1
+number of epochs: 5
+epoch 5, loss: 58.109808,cost 32.494287 sec
+epoch 6, loss: 55.931222,cost 33.309822 sec
+epoch 7, loss: 54.336381,cost 32.366402 sec
+epoch 8, loss: 53.181399,cost 33.221873 sec
+epoch 9, loss: 52.281035,cost 32.723665 sec
+---------------
+train Accuracy: 0.854700
+test Accuracy: 0.849500
+---------------
+Train Model Step: 2
+number of epochs: 5
+epoch 10, loss: 51.382049,cost 32.583243 sec
+epoch 11, loss: 50.621934,cost 32.699171 sec
+epoch 12, loss: 49.817056,cost 32.452313 sec
+epoch 13, loss: 49.204351,cost 32.477298 sec
+epoch 14, loss: 48.891739,cost 32.723159 sec
+---------------
+train Accuracy: 0.869900
+test Accuracy: 0.858000
+---------------
+Train Model Step: 3
+number of epochs: 5
+epoch 15, loss: 48.227492,cost 32.797116 sec
+epoch 16, loss: 47.698863,cost 32.130496 sec
+epoch 17, loss: 47.153819,cost 32.043549 sec
+epoch 18, loss: 46.580728,cost 32.678185 sec
+epoch 19, loss: 46.254880,cost 32.493290 sec
+---------------
+train Accuracy: 0.878600
+test Accuracy: 0.859500
+---------------
+Train Model Step: 4
+number of epochs: 5
+epoch 20, loss: 46.155321,cost 32.440322 sec
+epoch 21, loss: 45.427896,cost 32.536269 sec
+epoch 22, loss: 45.287113,cost 32.439317 sec
+epoch 23, loss: 44.709536,cost 35.653434 sec
+epoch 24, loss: 44.322278,cost 35.729974 sec
+---------------
+train Accuracy: 0.875000
+test Accuracy: 0.866500
+---------------
+Train Model Step: 5
+number of epochs: 5
+epoch 25, loss: 44.073175,cost 33.124773 sec
+epoch 26, loss: 43.469980,cost 34.241606 sec
+epoch 27, loss: 43.003166,cost 34.876865 sec
+epoch 28, loss: 42.773754,cost 33.127281 sec
+epoch 29, loss: 42.498063,cost 33.020541 sec
+---------------
+train Accuracy: 0.885600
+test Accuracy: 0.867000
+---------------
+Train Model Step: 6
+number of epochs: 5
+epoch 30, loss: 42.346841,cost 32.556926 sec
+epoch 31, loss: 41.822691,cost 32.176297 sec
+epoch 32, loss: 41.582603,cost 33.673736 sec
+epoch 33, loss: 40.988868,cost 33.710911 sec
+epoch 34, loss: 40.989501,cost 32.645201 sec
+---------------
+train Accuracy: 0.878400
+test Accuracy: 0.855000
+---------------
+Train Model Step: 7
+number of epochs: 5
+epoch 35, loss: 40.293223,cost 32.378360 sec
+epoch 36, loss: 40.288960,cost 35.047817 sec
+epoch 37, loss: 39.878914,cost 41.220451 sec
+epoch 38, loss: 39.766115,cost 35.347647 sec
+epoch 39, loss: 39.415709,cost 35.374633 sec
+---------------
+train Accuracy: 0.893200
+test Accuracy: 0.870000
+---------------
+Train Model Step: 8
+number of epochs: 5
+epoch 40, loss: 38.893780,cost 35.522545 sec
+epoch 41, loss: 38.758631,cost 35.397619 sec
+epoch 42, loss: 38.559836,cost 35.140766 sec
+epoch 43, loss: 38.288013,cost 35.363638 sec
+epoch 44, loss: 37.866986,cost 35.443593 sec
+---------------
+train Accuracy: 0.899500
+test Accuracy: 0.881500
+---------------
+Train Model Step: 9
+number of epochs: 5
+epoch 45, loss: 37.552260,cost 35.294679 sec
+epoch 46, loss: 37.445986,cost 35.655469 sec
+epoch 47, loss: 36.912705,cost 35.246706 sec
+epoch 48, loss: 36.602821,cost 35.404612 sec
+epoch 49, loss: 36.367995,cost 35.793390 sec
+---------------
+train Accuracy: 0.901000
+test Accuracy: 0.881000
+---------------
+Finished
+---------------
+>>> 
